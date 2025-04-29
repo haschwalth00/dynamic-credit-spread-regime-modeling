@@ -53,8 +53,8 @@ All key visualizations are saved in the `/plots/` folder:
 ## 🔬 Folder Structure
 
 Credit-Spread-Regime-Modeling/
-├── credit_spread_modeling.ipynb        # Main Jupyter notebook with full analysis
 ├── README.md                           # Project description and overview
+├── credit_spread_modeling.ipynb        # Main Jupyter notebook with full analysis
 ├── credit_spread_regimes_final.csv     # Final output CSV file
 ├── /data/                              # Raw input datasets from FRED
 │   ├── BAMLCC0A0CMTRIV.csv
