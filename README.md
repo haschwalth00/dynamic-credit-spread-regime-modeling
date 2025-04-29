@@ -50,22 +50,5 @@ All key visualizations are saved in the `/plots/` folder:
 
 ---
 
-## 🔬 Folder Structure
-
-Credit-Spread-Regime-Modeling/
-├── README.md                           # Project description and overview
-├── credit_spread_modeling.ipynb        # Main Jupyter notebook with full analysis
-├── credit_spread_regimes_final.csv     # Final output CSV file
-├── /data/                              # Raw input datasets from FRED
-│   ├── BAMLCC0A0CMTRIV.csv
-│   ├── GS10.csv
-│   ├── CPIAUCSL.csv
-│   ├── GDP.csv
-│   ├── UNRATE.csv
-│   └── FEDFUNDS.csv
-└── /plots/                             # Output charts
-    ├── spread_over_time.png
-    ├── regime_classification.png
-    └── stress_scenario_spread.png
 
 
